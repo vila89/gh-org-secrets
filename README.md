@@ -12,8 +12,9 @@ gh extension install vila89/gh-org-secrets
 
 Options:
 
+```
 -d, --debug              Enable debug logging
 -f, --output string      Path and name of CSV file to export secrets to (required)
     --hostname string    GitHub Enterprise Server hostname (default "github.com")
 -t, --token string       GitHub personal access token (default "gh auth token")
-
+```
