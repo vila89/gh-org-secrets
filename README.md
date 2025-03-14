@@ -5,9 +5,11 @@ GitHub CLI extension to export Actions, Dependabot, and Codespaces secrets from 
 ## Installation
 ```sh
 gh extension install vila89/gh-org-secrets
+```
 
 ## Usage
-```shgh org-secrets export <organization> -f [secrets.csv]
+```sh
+gh org-secrets export <organization> -f [secrets.csv]
 ```
 
 Options:
